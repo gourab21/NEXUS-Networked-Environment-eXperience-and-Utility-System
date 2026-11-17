@@ -1,0 +1,29 @@
+The Basic idea is Smart Automation of Large Spaces, like office spaces, seminar halls, marriage halls and event places using integration of Smart Sensors and AI enabled Cameras.
+
+For this particular scenario I'm thinking maybe a seminar hall or something, or let's say a building. There are multiple seminar halls there.
+
+Let's say one seminar hall is taken as an example and using smart already, it will have accessibility. What if we access the data of the CCTV or the live feed and then, based on the number of bookings or the number of people who will be attending (let's say it is a 240-seater seminar hall and only 10 people will be coming), the temperature can be set in the halls as per that?
+
+At the same time let's take a very practical example. Let's consider a 500-capacity seminar hall. In ideal scenarios it should accommodate around 450 to 400 guests, usually during each and every seminar. Let's say there happens to be a seminar where only 100 people are coming. By default the settings for the AC will be set to 23°C or 24°C, which will eventually have to be started manually. If the session gets delayed, then the manual interventions have to be done at the same time.
+
+Let's say only 100 people are expected to come so rather than setting the temperature manually, we can give the model these parameters. Based on that it will set the ideal temperature. At the same time when 100 people enter the hall, there will be a huge influx of air as well as people. Initially the temperature spike will be large so the 
+
+What I am trying to say is that when there is a movement of a large number of people at a time, there is an influx of hot air. When so many people come together, the cold air in the room will be reduced to a large extent. I am not very sure about it but we need to check based on the principles of physics or real conditions.
+
+When so many people are coming at one time, if the temperature of the room is set to very cold, the people will actually have a problem when they first enter. The AC should be adaptive: when the people are entering, let's say the temperature is set to 25, so they don't feel the difference between the outside environment and the inside environment. At the same time when, let's say, 200 people are seated, the temperature can be slightly reduced so that they are comfortable and then don't feel very hot. These kinds of measures can be taken at the same time. 
+
+Time: all the devices can also be connected to the centralized system or a central control where the lights, the projector, and each and every device can be connected. Based on the timing of the presentation, everything can be powered just before that. If there is a request, the event organizers will come 15 minutes prior so all the things can be set up 18 minutes prior. At the same time sensors can be installed so that automatic light can be turned on or turned off based on that. 
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
